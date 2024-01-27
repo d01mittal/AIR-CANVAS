@@ -7,14 +7,6 @@ Here Hand landmarks detection and tracking is used in order to achieve the objec
 
 This is a simple paint application using hand tracking with the help of the MediaPipe library in Python. The application allows you to draw on the screen using different colors by moving your hand in front of the webcam.
 
-## Prerequisites
-
-Make sure you have the following libraries installed:
-
-- OpenCV (`pip install opencv-python`)
-- NumPy (`pip install numpy`)
-- MediaPipe (`pip install mediapipe`)
-
 # Algorithm
 
 1-> Start reading the frames and convert the captured frames to HSV colour space.(Easy for colour detection)
@@ -49,13 +41,14 @@ Clear: Move hand to the clear button (49, 33).
 
 # Demo
 
-https://www.linkedin.com/feed/update/urn:li:activity:7156283062429831169/
+
+https://github.com/d01mittal/AIR-CANVAS/assets/144702542/c6ccdf6c-d4f3-4293-b5ea-23527372457c
 
 
-Author
+# Author
 Divyanshu Mittal
 
-Acknowledgments
+# Acknowledgments
 Mediapipe library for hand tracking.
 OpenCV for computer vision.
 NumPy for numerical operations.
