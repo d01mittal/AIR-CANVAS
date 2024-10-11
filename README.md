@@ -49,7 +49,7 @@ https://github.com/d01mittal/AIR-CANVAS/assets/144702542/c6ccdf6c-d4f3-4293-b5ea
 Divyanshu Mittal
 
 # Contributors
-ManaswiniGupta, subhiarjaria18 and Susanta2102
+subhiarjaria18 and Susanta2102
 
 # Acknowledgments
 Mediapipe library for hand tracking.
